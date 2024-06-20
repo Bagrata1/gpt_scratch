@@ -24,7 +24,7 @@ Before feeding to GPT model, data was preprocessed in following ways:
 
 ### Training
 
-Training code is same as provided by [nanoGPT video lecture](https://github.com/karpathy/ng-video-lecture) and can be viewed in the jupyten notebook provided in this repo.
+Training code is same as provided by [nanoGPT video lecture](https://github.com/karpathy/ng-video-lecture) and can be viewed in the jupyter notebook provided in this repo.
 
 *Note : Since the model is simple, it is possible to run the training process on personal CPU as well as free Colab or Kaggle account. In this case, model was trained on personal CPU with 16GB RAM, 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz CPU*
 
